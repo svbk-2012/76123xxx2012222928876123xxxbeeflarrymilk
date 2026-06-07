@@ -1,0 +1,6 @@
+{
+  "name": "Proxy Browser",
+  "description": "An interactive web browser with a NodeJS proxy backend. Features multi-tab browsing, page scraping, dynamic base-href asset auto-rendering, security-bypass, bookmarks, browsing history, and an AI site assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
